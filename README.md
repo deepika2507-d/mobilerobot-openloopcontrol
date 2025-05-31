@@ -93,23 +93,16 @@ if __name__ == '__main__':
     
     ep_robot.close()
 
+
+```
 ## MobileRobot Movement Image:
+![image](https://github.com/user-attachments/assets/5828c7f4-58f3-44b5-b7af-b13accac9057)
+## MobileRobot Movement video:
 
-![image](https://github.com/user-attachments/assets/3e61b4c8-ecc7-41e7-b5bc-80079704dddb)
-
-
-## MobileRobot Movement Video:
 https://youtu.be/Mcwbm-W5Tyo?si=K4dsOz7QcBLan1z7
 
 
-## Result:
-Thus the python program code is developed to move the mobilerobot in the predefined path.
 
-
-<br/>
-<br/>
-
-```
 Mobile Robotics Laboratory
 Department of Artificial Intelligence and Data Science/ Machine Learning
 Saveetha Engineering College
